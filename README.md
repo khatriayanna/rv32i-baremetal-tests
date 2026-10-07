@@ -88,9 +88,6 @@ custom_mac: PASS
 *** ALL TESTS PASSED ***
 ```
 
-## Results
-
-_Add your simulation log and waveform screenshot here after running on your core._
 
 ## Files
 
