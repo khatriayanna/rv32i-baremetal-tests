@@ -1,0 +1,5 @@
+prog.elf
+prog.bin
+prog.hex
+prog.dump
+*.log
